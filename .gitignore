@@ -38,4 +38,21 @@ yarn-error.*
 
 # generated native folders
 /ios
-/android
+
+# android/ is NOT generated here - it holds hand-written Kotlin, so it is tracked.
+# Only its build output is ignored:
+android/build/
+android/app/build/
+android/.gradle/
+android/.cxx/
+android/local.properties
+
+# Signing secrets - never commit these
+*.keystore
+*.keystore-BACKUP
+*.jks
+KEY.txt
+android/gradle.properties
+
+# IDE
+.idea/

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541295151425",
+    "project_id": "wifimonitorpro-2bd26",
+    "storage_bucket": "wifimonitorpro-2bd26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541295151425:android:f6161d1ad3bc8de31339c0",
+        "android_client_info": {
+          "package_name": "com.clicksolution.wifimonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAcx90Feg4U19QBAhRoS4vUPmPiLXSbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
